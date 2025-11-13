@@ -27,7 +27,7 @@ url: "http://lindsro.github.io" # the base hostname & protocol for your site, e.
 github_username: lindsro
 
 # Build settings
-theme: "just-the-docs"
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
